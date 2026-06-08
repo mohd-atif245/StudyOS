@@ -48,7 +48,6 @@ make install # Install to system
 
 📁 File Structure
 
-```
 studyos/
 ├── main.cpp      # Source code
 ├── Makefile      # Build automation
