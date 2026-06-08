@@ -18,17 +18,17 @@ git clone https://github.com/atifasimsule245-coder/studyos
 cd studyos
 make
 ./studyos
-
-
+```
+```bash
 ## 📸 Screenshots
 
 ![Main Menu](screenshots/menu.png)
 ![Tasks](screenshots/tasks.png)
 ![Timer](screenshots/timer.png)
 ![Dashboard](screenshots/dashboard.png)
+```
 
 🎯 Usage
-
 
 1. Tasks     - Manage your to-do list
 2. Pomodoro Timer - Start 25-min focus session (press 'q' to stop)
