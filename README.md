@@ -45,7 +45,7 @@ make run    # Compile and run
 make clean  # Remove compiled files
 make install # Install to system
 
-
+```
 📁 File Structure
 
 studyos/
