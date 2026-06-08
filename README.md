@@ -45,7 +45,7 @@ make run    # Compile and run
 make clean  # Remove compiled files
 make install # Install to system
 
-```
+
 📁 File Structure
 
 studyos/
@@ -55,7 +55,7 @@ studyos/
 ├── tasks.txt     # Auto-generated
 ├── notes.txt     # Auto-generated
 └── stats.txt     # Auto-generated
-
+```
 
 📄 License
 
