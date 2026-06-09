@@ -28,8 +28,8 @@ make
 ![Dashboard](screenshots/dashboard.png)
 ```
 
-## 🎯 Usage
-```
+ 🎯 Usage
+
 1. Tasks     - Manage your to-do list
 2. Pomodoro Timer - Start 25-min focus session (press 'q' to stop)
 3. Notes     - Save study notes
