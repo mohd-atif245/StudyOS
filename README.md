@@ -35,7 +35,7 @@ make
 3. Notes     - Save study notes
 4. Dashboard - View your progress
 5. Exit      - Save and quit
-```
+
 
 ## 🛠️ Commands
 ```bash
