@@ -35,9 +35,9 @@ make
 3. Notes     - Save study notes
 4. Dashboard - View your progress
 5. Exit      - Save and quit
+```
 
-
-🛠️ Commands
+## 🛠️ Commands
 ```bash
 bash
 make        # Compile
@@ -64,6 +64,7 @@ MIT License - Free for everyone
 🤝 Contributing
 
 Pull requests welcome! For major changes, please open an issue first.
+
 
 ## 📧 Contact
 
