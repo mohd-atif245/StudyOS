@@ -14,7 +14,7 @@ A terminal-based productivity tool to manage tasks, track study time using Pomod
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/atifasimsule245-coder/studyos
+git clone https://github.com/mohd-atif245/studyos
 cd studyos
 make
 ./studyos
@@ -27,7 +27,7 @@ make
 ![Timer](screenshots/timer.png)
 ![Dashboard](screenshots/dashboard.png)
 ```
-
+```
  🎯 Usage
 
 1. Tasks     - Manage your to-do list
@@ -61,7 +61,7 @@ studyos/
 
 MIT License - Free for everyone
 
-🤝 Contributing
+## 🤝 Contributing
 
 Pull requests welcome! For major changes, please open an issue first.
 
