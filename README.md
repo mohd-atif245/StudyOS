@@ -28,14 +28,14 @@ make
 ![Dashboard](screenshots/dashboard.png)
 ```
 
-🎯 Usage
+## 🎯 Usage
 
 1. Tasks     - Manage your to-do list
 2. Pomodoro Timer - Start 25-min focus session (press 'q' to stop)
 3. Notes     - Save study notes
 4. Dashboard - View your progress
 5. Exit      - Save and quit
-```
+
 
 🛠️ Commands
 ```bash
@@ -46,7 +46,7 @@ make clean  # Remove compiled files
 make install # Install to system
 ```
 
-📁 File Structure
+## 📁 File Structure
 ```bash
 studyos/
 ├── main.cpp      # Source code
@@ -57,7 +57,7 @@ studyos/
 └── stats.txt     # Auto-generated
 ```
 
-📄 License
+## 📄 License
 
 MIT License - Free for everyone
 
@@ -65,6 +65,6 @@ MIT License - Free for everyone
 
 Pull requests welcome! For major changes, please open an issue first.
 
-📧 Contact
+## 📧 Contact
 
 Muhammad Atif - www.linkedin.com/in/muhammad-atif-73494a2b2
